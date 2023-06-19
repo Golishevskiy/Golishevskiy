@@ -47,7 +47,7 @@ The place for discription
 * OpenWeather API
 
 <p align="center">
-<img src="Simulator Screenshot - iPhone 14 Pro Max - 2023-06-19 at 18.23.55.png" width="230" title="ZNO Test">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863992-232ffe00-c917-11ea-93d8-f5e28269aef2.jpg" width="230" title="ZNO Test">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863993-232ffe00-c917-11ea-92d1-85e14db86161.jpg" width="230" title="ZNO Test">
+<img src="Simulator Screenshot - iPhone 14 Pro Max - 2023-06-19 at 18.23.55.png" width="230" title="ZNO Test">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Simulator Screenshot - iPhone 14 Pro Max - 2023-06-19 at 21.46.23.png" width="230" title="ZNO Test">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863993-232ffe00-c917-11ea-92d1-85e14db86161.jpg" width="230" title="ZNO Test">
 
 </p>
 
