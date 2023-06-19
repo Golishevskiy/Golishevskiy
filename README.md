@@ -40,7 +40,7 @@
 </p>
 -->
 # Weather
-ZNO Test is my pet-project that im working on right now. It is an application for Ukrainian school students that allow practicing for the ZNO test (analog of SAT (Standardized Aptitude Tests) or GRE (Graduate Record Examination) in the USA).
+The place for discription
 
 * MVVM (Model-View-ViewModel) architecture
 * CoreLocation
